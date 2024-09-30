@@ -72,10 +72,10 @@ function Contato() {
         <FaMapMarkerAlt /> Endereço: Av. Zunkeller 792, 02420-001 São Paulo, Brasil
       </p>
       <div className="redes-sociais">
-        <a href="https://linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/guilhermecoak/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
-        <a href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/guilhermecoak/" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
       </div>
