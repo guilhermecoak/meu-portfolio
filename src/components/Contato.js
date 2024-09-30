@@ -69,7 +69,7 @@ function Contato() {
         <a href="#" onClick={handleEmailClick}> guilhermecoak@gmail.com</a>
       </p>
       <p>
-        <FaMapMarkerAlt /> Endereço: Av. Zunkeller 792, 02420-001 São Paulo, Brasil
+        <FaMapMarkerAlt /> São Paulo, Brasil
       </p>
       <div className="redes-sociais">
         <a href="https://www.linkedin.com/in/guilhermecoak/" target="_blank" rel="noopener noreferrer">
