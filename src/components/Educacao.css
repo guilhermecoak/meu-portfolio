@@ -1,0 +1,38 @@
+/* src/components/Educacao.css */
+
+.educacao {
+  padding: 40px 20px;
+  background-color: #F0F8FF; /* Fundo Claro */
+  transition: background-color 0.5s ease;
+}
+
+.educacao.highlight {
+  background-color: rgba(255, 127, 80, 0.3);
+}
+
+.educacao {
+    padding: 40px 20px;
+    background-color: #F0F8FF; /* Fundo Claro */
+  }
+  
+  .educacao h2 {
+    margin-bottom: 20px;
+    color: #007BFF; /* Azul Vibrante */
+  }
+  
+  .educacao__item {
+    margin-bottom: 20px;
+  }
+  
+  .educacao__item h3 {
+    color: #FF7F50; /* Coral */
+  }
+  
+  .educacao__item p {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  .sobre.highlight {
+    background-color: rgba(255, 127, 80, 0.3); /* Coral com transparência */
+  }
+  

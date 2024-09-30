@@ -1,0 +1,154 @@
+/* src/components/Contato.css */
+
+/* Estilos gerais da seção de contato */
+.contato {
+  padding: 40px 20px;
+  background-color: #f0f0f0; /* Mesmo cinza claro usado no resto do site */
+  color: #333;
+}
+
+.contato h2 {
+  margin-bottom: 30px;
+  text-align: center;
+  color: #007BFF;
+}
+
+/* Estilos para as informações de contato */
+.contato p {
+  font-size: 1.1em;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centraliza horizontalmente */
+}
+
+.contato p svg {
+  margin-right: 10px;
+  color: #007BFF;
+  font-size: 1.5em;
+}
+
+/* Estilos para os links dentro das informações de contato */
+.contato a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.contato a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para as redes sociais */
+.redes-sociais {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.redes-sociais a {
+  margin: 0 10px;
+  color: #007BFF;
+  font-size: 2em;
+  transition: color 0.3s;
+}
+
+.redes-sociais a:hover {
+  color: #0056b3;
+}
+
+/* Estilos para o formulário */
+.form-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.form-container {
+  background-color: #fff;
+  padding: 30px;
+  width: 90%;
+  max-width: 500px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.form-container h3 {
+  margin-bottom: 20px;
+  color: #007BFF;
+  text-align: center;
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.form-container input,
+.form-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.form-container textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.form-container button {
+  background-color: #007BFF;
+  color: #FFF;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  flex: 1;
+  margin-right: 10px;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.form-container button:last-child {
+  background-color: #6c757d;
+  margin-right: 0;
+}
+
+.form-container button:hover {
+  background-color: #0056b3;
+}
+
+.form-container button:last-child:hover {
+  background-color: #5a6268;
+}
+
+.close-button {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 2em;
+  color: #aaa;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.close-button:hover {
+  color: #000;
+}

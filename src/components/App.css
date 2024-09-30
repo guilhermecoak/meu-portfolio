@@ -1,0 +1,38 @@
+/* src/App.css */
+
+/* Estilos globais */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Cinza claro */
+  font-family: 'Arial', sans-serif;
+}
+
+a {
+  color: #007BFF; /* Mantém o azul para links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3; /* Azul mais escuro no hover */
+}
+
+/* Estilos para elementos de destaque */
+.highlight {
+  background-color: rgba(40, 167, 69, 0.3); /* Verde suave com transparência */
+}
+
+/* Botões gerais */
+button {
+  background-color: #28a745; /* Verde suave */
+  color: #FFF;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+button:hover {
+  background-color: #218838; /* Verde mais escuro no hover */
+}

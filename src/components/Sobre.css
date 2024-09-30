@@ -1,0 +1,27 @@
+/* src/components/Sobre.css */
+
+.sobre {
+    padding: 40px 20px;
+    background-color: #F0F8FF; /* Fundo Claro */
+  }
+  
+  .sobre h2 {
+    margin-bottom: 15px;
+    color: #007BFF; /* Azul Vibrante */
+  }
+  
+  .sobre p {
+    font-size: 1.1em;
+    color: #333;
+  }
+  /* src/components/Sobre.css */
+
+.sobre {
+  padding: 40px 20px;
+  background-color: #F0F8FF; /* Fundo Claro */
+  transition: background-color 0.5s ease;
+}
+
+.sobre.highlight {
+  background-color: rgba(255, 127, 80, 0.3); /* Coral com transparência */
+}

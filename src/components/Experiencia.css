@@ -1,0 +1,49 @@
+/* src/components/Experiencia.css */
+
+.experiencia {
+  padding: 40px 20px;
+  transition: background-color 0.5s ease;
+}
+
+.experiencia.highlight {
+  background-color: rgba(255, 127, 80, 0.3);
+}
+  
+  .experiencia h2 {
+    margin-bottom: 20px;
+    color: #007BFF; /* Azul Vibrante */
+  }
+  
+  .experiencia__item {
+    margin-bottom: 30px;
+    background-color: #F0F8FF; /* Fundo Claro */
+    padding: 20px;
+    border-left: 5px solid #FF7F50; /* Coral */
+  }
+  
+  .experiencia__item h3 {
+    color: #FF7F50; /* Coral */
+  }
+  
+  .experiencia__item p {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .experiencia__item ul {
+    list-style: disc inside;
+    color: #333;
+  }
+  .sobre.highlight {
+    background-color: rgba(255, 127, 80, 0.3); /* Coral com transparência */
+  }
+  /* src/components/Experiencia.css */
+
+.experiencia {
+  padding: 40px 20px;
+  transition: background-color 0.5s ease;
+}
+
+.experiencia.highlight {
+  background-color: rgba(255, 127, 80, 0.3);
+}
