@@ -45,7 +45,7 @@ Este projeto é uma aplicação web construída com **React** que serve como meu
 
    *Abra http://localhost:3000 no seu navegador preferido.*
 
-##✉️ Configuração do EmailJS (Opcional)##
+## ✉️ Configuração do EmailJS (Opcional)
 
    **Se desejar testar o formulário de contato, será necessário configurar o EmailJS:**
 
@@ -62,23 +62,23 @@ REACT_APP_EMAILJS_SERVICE_ID=seu_service_id
 REACT_APP_EMAILJS_TEMPLATE_ID=seu_template_id  
 ```
 
-##🤝 Contribuição##
-    Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+## 🤝 Contribuição
+   Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-    Faça um fork deste repositório.
-    Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
-    Commit suas alterações (git commit -m 'Adiciona nova feature').
-    Faça o push para a branch (git push origin feature/nova-feature).
-    Abra um Pull Request.
+   Faça um fork deste repositório.
+   Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
+   Commit suas alterações (git commit -m 'Adiciona nova feature').
+   Faça o push para a branch (git push origin feature/nova-feature).
+   Abra um Pull Request.
 
-##📄 Licença##
-    Este projeto está licenciado sob a MIT License.
+## 📄 Licença
+   Este projeto está licenciado sob a MIT License.
 
-##📢 Atualizações Futuras##
-    O site está em constante evolução! Planejo adicionar novas funcionalidades e melhorias, incluindo:
+## 📢 Atualizações Futuras
+   O site está em constante evolução! Planejo adicionar novas funcionalidades e melhorias, incluindo:
 
-    Novos Projetos: Atualização contínua da seção de projetos com meus trabalhos mais recentes.
-    Blog Pessoal: Seção dedicada a artigos e tutoriais sobre desenvolvimento web e tecnologia.
-    Internacionalização: Disponibilizar o site em múltiplos idiomas para alcançar um público mais amplo.
-    Animações e Efeitos Visuais: Implementar animações suaves para melhorar a experiência do usuário.
-    Fique atento às atualizações e não hesite em dar feedback ou sugestões!
+   Novos Projetos: Atualização contínua da seção de projetos com meus trabalhos mais recentes.
+   Blog Pessoal: Seção dedicada a artigos e tutoriais sobre desenvolvimento web e tecnologia.
+   Internacionalização: Disponibilizar o site em múltiplos idiomas para alcançar um público mais amplo.
+   Animações e Efeitos Visuais: Implementar animações suaves para melhorar a experiência do usuário.
+   Fique atento às atualizações e não hesite em dar feedback ou sugestões!
