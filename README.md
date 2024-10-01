@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio pessoal! Este repositório contém o código-fonte do meu site, onde apresento minhas habilidades, projetos e experiências na área de desenvolvimento web.
 
-![Preview do Site](link-para-screenshot-ou-gif)
+![Preview do Site](https://cdn.discordapp.com/attachments/965845359714791454/1290681018201669704/Captura_de_tela_2024-10-01_112513.png?ex=66fd57de&is=66fc065e&hm=9ce12b044b340259a64b01e08277412b947f763cc09046cdad142a150f1b3f00&)
 
 ## 📖 Descrição
 
