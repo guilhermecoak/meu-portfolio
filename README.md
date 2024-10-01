@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+Portfólio de Guilherme Krause
+Bem-vindo ao meu portfólio pessoal! Este repositório contém o código-fonte do meu site, onde apresento minhas habilidades, projetos e experiências na área de desenvolvimento web.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Descrição
+Este projeto é uma aplicação web construída com React que serve como meu portfólio profissional. O site é responsivo e inclui interatividade, como um formulário de contato funcional e animações sutis para melhorar a experiência do usuário.
 
-In the project directory, you can run:
+Funcionalidades
+Apresentação Pessoal: Informações sobre minha formação, experiências e objetivos profissionais.
+Competências Técnicas: Lista interativa das tecnologias que domino, com descrições criativas e humoradas.
+Projetos: Seção destacando alguns dos projetos em que trabalhei.
+Contato: Formulário de contato que permite aos visitantes me enviarem mensagens diretamente pelo site.
+Tecnologias Utilizadas
+React: Biblioteca JavaScript para construção da interface do usuário.
+EmailJS: Serviço para envio de e-mails diretamente do front-end.
+React Icons: Biblioteca de ícones para React.
+CSS3: Estilização customizada com foco em responsividade e usabilidade.
+HTML5: Estruturação semântica do conteúdo.
+Como Executar o Projeto Localmente
+Clone este repositório em sua máquina:
 
-### `npm start`
+bash
+Copiar código
+git clone https://github.com/seu-usuario/seu-repositorio.git
+Navegue até o diretório do projeto:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
+Copiar código
+cd seu-repositorio
+Instale as dependências necessárias:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bash
+Copiar código
+npm install
+Inicie o servidor de desenvolvimento:
 
-### `npm test`
+bash
+Copiar código
+npm start
+Acesse o site no seu navegador:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Abra http://localhost:3000 no seu navegador preferido.
 
-### `npm run build`
+Configuração do EmailJS (Opcional)
+Se desejar testar o formulário de contato, será necessário configurar o EmailJS:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Crie uma conta no EmailJS.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Crie um serviço de e-mail e um template.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Adicione suas credenciais ao projeto:
 
-### `npm run eject`
+Crie um arquivo .env na raiz do projeto e adicione as seguintes variáveis:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+env
+Copiar código
+REACT_APP_EMAILJS_USER_ID=seu_user_id
+REACT_APP_EMAILJS_SERVICE_ID=seu_service_id
+REACT_APP_EMAILJS_TEMPLATE_ID=seu_template_id
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Faça um fork deste repositório.
+Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
+Commit suas alterações (git commit -m 'Adiciona nova feature').
+Faça o push para a branch (git push origin feature/nova-feature).
+Abra um Pull Request.
+Licença
+Este projeto está licenciado sob a MIT License.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Atualizações Futuras
+O site está em constante evolução! Planejo adicionar novas funcionalidades e melhorias, incluindo:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Novos Projetos: Atualização contínua da seção de projetos com meus trabalhos mais recentes.
+Blog Pessoal: Seção dedicada a artigos e tutoriais sobre desenvolvimento web e tecnologia.
+Internacionalização: Disponibilizar o site em múltiplos idiomas para alcançar um público mais amplo.
+Animações e Efeitos Visuais: Implementar animações suaves para melhorar a experiência do usuário.
+Fique atento às atualizações e não hesite em dar feedback ou sugestões!
