@@ -1,4 +1,4 @@
-# Portfólio de Guilherme Krause
+# Portfólio de Guilherme Camargo
 
 Bem-vindo ao meu portfólio pessoal! Este repositório contém o código-fonte do meu site, onde apresento minhas habilidades, projetos e experiências na área de desenvolvimento web.
 
